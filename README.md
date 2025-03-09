@@ -1,22 +1,22 @@
 ![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 <h1 align="center">Hi 👋, I'm Hristo Nikolov.</h1>
-<h3 align="center">A passionate software developer from Sofia/Bulgaria.</h3>
+<h3 align="center">A passionate software developer from Vraca/Bulgaria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hnikolov04&label=Profile%20views&color=0e75b6&style=flat" alt="hnikolov04" /> </p>
 
-- 🔭 I’m currently working on **ASP.NET projects.**
+- 🔭 I’m currently working on **Web Development and Mobile Development.**
 
-- 🌱 I’m currently learning **.NET, ASP.NET, WPF, JavaScript, HTML, CSS, MS SQL.**
+- 🌱 I’m currently learning **React with TypeScript**
 
-- 👯 I’m looking to collaborate on **on any C# releated upcoming projects.**
+- 👯 I’m looking to collaborate on **on any web projects.**
 
 - 🤝 I’m looking for help with **enhancing my programming skills.**
 
-- 💬 Ask me about **any C# releated topics.**
+- 💬 Ask me about **any web development releated topics.**
 
 - 📫 How to reach me **h.nikolov2004@gmail.com**
 
-- ⚡ Fun fact **I have been coding for a year.**
+- ⚡ Fun fact **I have been coding for almost two years.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
